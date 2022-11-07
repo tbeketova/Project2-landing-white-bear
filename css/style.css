@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Raleway:wght@200;300;400;500;600&display=swap');
+
+body {
+    background-color: #fff;
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+
+    -webkit-font-smoothing: antialiased;
+    /*для сглаживания шрифтов*/
+    -webkit-overflow-scrolling: touch;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Raleway";
+    font-weight: 300;
+    color: #333;
+}
+
+a {
+    color: #050505;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus,
+.nav-link:hover,
+.nav-link:focus {
+    color: #4C1D95;
+    text-decoration: underline;
+    outline: 0;
+}
+
+.img-header {
+    width: 153px;
+    height: 76px;
+}
+
+.btn-icons {
+    /*margin: 0 auto 15px;*/
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(177, 37, 37);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+
+}
+
+.icons-box {
+    display: flex;
+    justify-content: center;
+
+}
+
+.icons-item img {
+    width: 30px;
+    height: 30px;
+}
+
+.btaa-phone a {
+    text-decoration: none;
+    border-bottom: dashed;
+    color: rgb(21, 137, 245);
+}
+
+p {
+    font-family: "Raleway";
+    font-weight: 600;
+    color: #333;
+    font-size: 17px;
+}
+
+.main-section {
+    padding-top: 45px;
+}
+
+.img-bear img {}
+
+.img-bear_right {
+    max-width: 377px;
+}
+
+.img-bear_left {
+    width: 400px;
+    height: 477px;
+    padding: 0;
+}
