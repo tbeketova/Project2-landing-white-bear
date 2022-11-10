@@ -1,6 +1,8 @@
 # Project2-landing-white-bear
+
 Описание проекта
-- Ето простая страница [посмотрите здесь](https://tbeketova.github.io/Project_1_landing_guitar_school).
-- Сделана работа над дизайном макета, 
-- Верстка  Desktop and Responsive с исползобанием библиотеки Bootstrap
-- Время работьi над проектом - 23 часа
+
+- Ето простая страница [посмотрите здесь](https://tbeketova.github.io/Project2-landing-white-bear/).
+- Сделана работа над дизайном макета,
+- Верстка Desktop and Responsive с использованием библиотеки Bootstrap
+- Время работьi над проектом - часа

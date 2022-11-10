@@ -20,7 +20,7 @@ h4,
 h5,
 h6 {
     font-family: "Raleway";
-    font-weight: 300;
+    font-weight: 400;
     color: #333;
 }
 
@@ -43,8 +43,11 @@ a:focus,
     height: 76px;
 }
 
+.btaa-header p {
+    font-size: 16px;
+}
+
 .btn-icons {
-    /*margin: 0 auto 15px;*/
     height: 50px;
     width: 50px;
     border: 1px solid rgb(177, 37, 37);
@@ -53,13 +56,11 @@ a:focus,
     justify-content: center;
     align-items: center;
     margin-right: 5px;
-
 }
 
 .icons-box {
     display: flex;
     justify-content: center;
-
 }
 
 .icons-item img {
@@ -70,7 +71,10 @@ a:focus,
 .btaa-phone a {
     text-decoration: none;
     border-bottom: dashed;
-    color: rgb(21, 137, 245);
+    color: rgb(24, 112, 193);
+    margin-left: 10px;
+    font-weight: 400;
+    font-size: 16px;
 }
 
 p {
@@ -84,7 +88,22 @@ p {
     padding-top: 45px;
 }
 
-.img-bear img {}
+.btaa-tel {
+    display: flex;
+    justify-content: center;
+}
+
+.btaa-tel a {
+    text-decoration: none;
+    border-bottom: dashed;
+    color: rgb(24, 112, 193);
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.btaa-title {
+    font-weight: 600;
+}
 
 .img-bear_right {
     max-width: 377px;
@@ -111,8 +130,6 @@ p {
     left: 0;
     width: 100%;
     height: 100%;
-    /*width: 460px;
-    height: 315px;*/
 }
 
 /* End  Адаптивное видео */
