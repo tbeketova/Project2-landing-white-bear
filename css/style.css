@@ -139,3 +139,7 @@ p {
 }
 
 /* End  Адаптивное видео */
+
+.text-center {
+    font-weight: bold;
+}
