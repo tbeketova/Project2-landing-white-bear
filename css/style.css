@@ -143,3 +143,33 @@ p {
 .text-center {
     font-weight: bold;
 }
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 600px;
+    margin: 150px auto 150px auto;
+}
+
+.input-name,
+.input-phone {
+    width: 300px;
+    margin-left: 15px;
+}
+
+.button {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    padding: 15px 20px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+.button:hover {
+    opacity: 0.5;
+}
